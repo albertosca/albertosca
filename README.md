@@ -13,8 +13,9 @@ Writing software since 2010. MSc in Computer Science (UFMG) with a published pap
 | | |
 |---|---|
 | [moonlighter](https://github.com/albertosca/moonlighter) | Job hunting from a Claude conversation — scans six ATS boards, scores every posting with an LLM, composes application answer sheets. Self-hosted MCP server. |
+| [vim-ai-follower](https://github.com/albertosca/vim-ai-follower) | Watch Claude Code edit files live inside a real Vim — a tmux pane (or a running Neovim) animates every edit as Claude types it; pause, interrupt and take over at any moment. Installs as a Claude Code plugin. |
 | [vim-ai-autocomplete](https://github.com/albertosca/vim-ai-autocomplete) | Ghost-text AI autocomplete for Vim 9+ and Neovim — two native implementations in behavioural parity, 188 no-network tests, pluggable model families. |
-| [vim](https://github.com/albertosca/vim) | My polyglot Vim/Neovim setup — Pathogen + CoC, 368-test suite covering options, mappings and plugins. |
+| [vim-runtime](https://github.com/albertosca/vim-runtime) | My polyglot Vim/Neovim setup — Pathogen + CoC, 378-test suite covering options, mappings and plugins. |
 | [howl](https://github.com/albertosca/howl) | Ranks your Steam backlog by quality × playtime — HowLongToBeat + Metacritic + Steam reviews. |
 
 ## Stack
